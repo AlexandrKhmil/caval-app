@@ -1,0 +1,4 @@
+{
+  "db": "postgres://postgres:root@localhost:5432/coval-app",
+  "jwtSecret": "jwtSecret"
+}
